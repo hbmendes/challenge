@@ -7,5 +7,5 @@ Bem vindos ao meus desafios do **FrontendMentor.io**, se você chegou ate aqui p
 ## Como funciona o Desafio
 
 Os desafios do **FrontendMentor.io** são divididos em quatro niveis, Iniciante, Junior, Intermediario, e Avançado, e esses desafios podem ser encontrados em HTML & CSS, JS, ou API.
-Basta escolher o nivel de desafio e enviar o projeto para que o site faça uma pré avaliação no codigo, e retorne erros encontrados, ou pode pedir a avaliação da comunidade.
+Basta escolher o nivel de desafio e enviar o projeto para que o site faça uma pré avaliação no codigo, e retorne erros encontrados, ou pode pedir a avaliação da comunidade [Slack community](https://www.frontendmentor.io/slack)
 
